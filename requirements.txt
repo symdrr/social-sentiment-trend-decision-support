@@ -1,0 +1,7 @@
+pandas
+numpy
+emoji
+scikit-learn
+tensorflow
+optuna
+matplotlib
